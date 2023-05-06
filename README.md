@@ -11,4 +11,5 @@ Go to https://bard.google.com/
 Credits:
 - [discordtehe](https://github.com/discordtehe)
 - [acheong08](https://github.com/acheong08)
+
 Derivative of their original reverse engineering
