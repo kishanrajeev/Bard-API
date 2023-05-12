@@ -13,3 +13,14 @@ Credits:
 - [acheong08](https://github.com/acheong08)
 
 Derivative of their original reverse engineering
+
+## Getting Started
+
+1. Clone the Repo.
+2. Pip install packages.
+3. Get your Bard session ID.
+4. Paste in your session ID.
+
+## Contact
+
+* [Kishan Rajeev](https://kishan.knowledgeplatter.com/)
